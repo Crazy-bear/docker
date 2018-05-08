@@ -1,2 +1,4 @@
 # docker
 Dockerfile文件用于学习docker在远程仓库获取Dockerfile文件创建镜像
+
+增加目录1,2以区分不同的学习文件
